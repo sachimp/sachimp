@@ -1,8 +1,8 @@
 <h1 align=“center”>
-    Hi there :wave:, I’m Sachin
+    Hello :wave:, I’m Sachin
 </h1>
 <h3 align=“center”>
-    A passionate Full-stack Developer based in London
+    A full-stack web developer based in London.
 </h3>
 <br>
 - :seedling: I’m currently learning React
