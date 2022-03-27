@@ -10,8 +10,10 @@
 - :telescope: I’m currently working on my portfolio website, and the Javascript30 challenge!
 <br>
 - :mailbox: How to reach me: sachingandhi@live.com
+<br>
 ### Connect with me:
 <a href=“https://www.linkedin.com/in/sachin-gandhi9001/”><img src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg” alt=“LinkedIn” style=“width:40px”></a>
+<br>
 ### Languages and Tools:
 <p float=“left”>
   <p float=“left”>
