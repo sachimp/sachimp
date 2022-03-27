@@ -6,8 +6,10 @@
 </h3>
 <br>
 - :seedling: I’m currently learning React
+<br>
 - :telescope: I’m currently working on my portfolio website, and the Javascript30 challenge!
-- :mailbox: How to reach me: [sachingandhi@live.com](mailto:sachingandhi@live.com)
+<br>
+- :mailbox: How to reach me: sachingandhi@live.com
 ### Connect with me:
 <a href=“https://www.linkedin.com/in/sachin-gandhi9001/”><img src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg” alt=“LinkedIn” style=“width:40px”></a>
 ### Languages and Tools:
