@@ -11,10 +11,10 @@
 <br>
 - :mailbox: How to reach me: sachingandhi@live.com
 <br>
-### Connect with me:
+Connect with me on LinkedIn:
 <a href=“https://www.linkedin.com/in/sachin-gandhi9001/”><img src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg” alt=“LinkedIn” style=“width:40px”></a>
 <br>
-### Languages and Tools:
+<h3>Languages and Tools:</h3>
 <p float=“left”>
   <p float=“left”>
     <a href=“https://www.ruby-lang.org/en/”><img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg” alt=“ruby” style=“width:40px”></a>
