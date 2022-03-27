@@ -13,4 +13,4 @@
 :mailbox: Reach me at: sachingandhi@live.com
 <br>
 <br>
-<h3>Connect with me on LinkedIn: <span><a href="https://www.linkedin.com/in/sachin-gandhi9001/">My Profile</a></span></h3>
+<h3>Connect with me on LinkedIn: <span><a href="https://www.linkedin.com/in/sachin-gandhi9001/" target="_blank">My Profile</a></span></h3>
