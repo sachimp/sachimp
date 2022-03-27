@@ -6,12 +6,11 @@
 </h3>
 <br>
 - :seedling: I’m currently learning React
-- :telescope: I’m currently working on [a website for bookmarking films to watch later](https://github.com/jimmehyuen/rails-watch-list)
-- :dancers: I’m looking to collaborate on interesting projects
-- :mailbox: How to reach me: [jimmehyuen@gmail.com](mailto:jimmehyuen@gmail.com)
-#### Connect with me:
-<a href=“https://www.linkedin.com/in/jimmy-yuen/”><img src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg” alt=“LinkedIn” style=“width:40px”></a>
-#### Languages and Tools:
+- :telescope: I’m currently working on my portfolio website, and the Javascript30 challenge!
+- :mailbox: How to reach me: [sachingandhi@live.com](mailto:sachingandhi@live.com)
+### Connect with me:
+<a href=“https://www.linkedin.com/in/sachin-gandhi9001/”><img src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg” alt=“LinkedIn” style=“width:40px”></a>
+### Languages and Tools:
 <p float=“left”>
   <p float=“left”>
     <a href=“https://www.ruby-lang.org/en/”><img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg” alt=“ruby” style=“width:40px”></a>
