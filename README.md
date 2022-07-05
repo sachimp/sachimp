@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Sachin</h1>
-<h3 align="center">A full-stack web developer based in London.</h3>
+<h3 align="center">A Backend developer based in London.</h3>
 
-- 🔭 I’m currently working on **my portfolio website, and the Javascript30 challenge!**
+- 🔭 I’m currently working at Cleo as a Junior Backend Engineer.
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 In my spare time I'm developing my portfolio site in **React.js** and working on a **Rails** app!
 
 - 📫 How to reach me **sachingandhi@live.com**
 
