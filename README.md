@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sachin</h1>
 <h3 align="center">A Backend developer based in London.</h3>
 
-- 🔭 I’m currently working at Cleo as a Junior Backend Engineer.
+- 🔭 I’m currently working at Cleo as a Backend Engineer.
 
 - 🌱 In my spare time I'm developing my portfolio site in **React.js** and working on a **Rails** app!
 
